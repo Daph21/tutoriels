@@ -16,7 +16,8 @@
         "potentiometre.ts",
         "Interplevier.md",
         "CapteurHumidite.md",
-        "Potentiometre.md"
+        "Potentiometre.md",
+        "EclipseV2.md"
     ],
     "testFiles": [
         "test.ts"
